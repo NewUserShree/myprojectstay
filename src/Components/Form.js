@@ -188,7 +188,7 @@ function handleFil(e){
           
 
             <div className="mb-3">
-                <label className='form-label'>Filterd by Room-Type :
+                <label className='form-label'>Filterd by Room-Type:
                     <label> Veg <input type="radio" name="room" value="Ac" onChange={handleFil}></input> </label>
                     <label> Non-Veg <input type="radio" name="room" value="Non Ac" onChange={handleFil}></input> </label>
                  
